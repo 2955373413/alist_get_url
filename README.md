@@ -1,7 +1,7 @@
 # Alist 文件列表获取工具
 
-[![Gitee stars](https://gitee.com/你的用户名/alist_crawler/badge/star.svg?theme=dark)](https://gitee.com/你的用户名/alist_crawler)
-[![Gitee forks](https://gitee.com/你的用户名/alist_crawler/badge/fork.svg?theme=dark)](https://gitee.com/你的用户名/alist_crawler)
+[![Gitee stars](https://gitee.com/webplan/alistfs/badge/star.svg?theme=dark)](https://gitee.com/webplan/alistfs)
+[![Gitee forks](https://gitee.com/webplan/alistfs/badge/fork.svg?theme=dark)](https://gitee.com/webplan/alistfs)
 
 这是一个用于获取 Alist 网盘文件列表的 Python 工具。支持递归获取目录结构、文件下载链接，并可以将结果保存为 JSON 格式。
 
@@ -43,7 +43,7 @@ pip install requests
 
 ```bash
 # 克隆仓库
-git clone https://gitee.com/你的用户名/alist_crawler.git
+git clone https://gitee.com/webplan/alistfs.git
 
 # 进入目录
 cd alist_crawler
