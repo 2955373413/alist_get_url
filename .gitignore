@@ -1,4 +1,6 @@
 .env/
 __pycache__/
 *.pyc
-files_info.json 
+files_info.json
+# 忽略所有以.开头的文件
+.* 
